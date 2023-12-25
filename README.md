@@ -9,25 +9,25 @@ Este contenido ha sido creado como un programa de desarrollo de talento técnico
 
 El contenido se divide en 4 módulos principales, cada uno con una cantidad de sesiones definida. El contenido de cada módulo y sus secciones correspondientes se desglosan de manera general a continuación.
 
-### **Tratamiento de datos con Python**
+#### **Tratamiento de datos con Python**
 - Tratamiento de datos con Pandas & Numpy
 -  Visualización de datos con Seaborn & Plotly
 - Ingeniería de datos
 
-### **Machine Learning con Python**
+#### **Machine Learning con Python**
 - Intro a ML - Tipos de aprendizaje
 - Regresión y clasificación 
 - Validación de modelos
 - Underfitting & overfitting
 - Exploración de modelos
 
-### **Deep Learning con TensorFlow & Keras**
+#### **Deep Learning con TensorFlow & Keras**
 - Funcionamiento de neuronas artificiales
 - Redes neuronales
 - Redes neuronales convolucionales
 - Pipelines de CNNs
 
-### **AI con Google Cloud (Vertex AI)**
+#### **AI con Google Cloud (Vertex AI)**
 - AutoML
 - Custom training
 - Model Garden 
