@@ -4,6 +4,13 @@
 
 Este contenido ha sido creado como un programa de desarrollo de talento técnico sobre Inteligencia Artificial para apicación en industria. El objetivo es brindar a personas técnicas un nivel fundamental de comprensión y capacidad de implementación de soluciones inteligentes utilizando un stack de tecnologías y servicios de nube contemporáneos.
 
+El curso incluye un test de evaluación de conocimientos previos, para poder determinar la base de conocimiento y proceso de pensamiento lógico de las y los participantes y así poder adecuar el contenido con con énfasis en ciertos temas.
+
+[![Link](https://img.shields.io/badge/Test%20de%20conocimientos%20previos-8A2BE2)](/assets/test.pdf)
+
+### Requisitos
+
+Para poder tomar este curso, es necesario contar con conocimientos básicos-intermedios de programación.
 
 ## Contenidos
 
@@ -40,7 +47,12 @@ El material de las sesiones se encuentra en formato de notebooks de [Jupyter](ht
 
 | CONTENIDO | LINK DE ACCESO DIRECTO |
 | --------- | ---------------------- |
-| Sesión 1 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
+| Sesión 01 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
+| Sesión 02 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
+| Sesión 03 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
+| Sesión 04 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
+| Sesión 05 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
+| Sesión 06 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
 
 
 ---
