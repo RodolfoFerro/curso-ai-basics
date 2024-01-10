@@ -43,16 +43,11 @@ El contenido se divide en 4 módulos principales, cada uno con una cantidad de s
 
 ## Material de las sesiones
 
-El material de las sesiones se encuentra en formato de notebooks de [Jupyter](https://jupyter.org/) y puede ser ejecutado de manera local o en la nube utilizando [Google Colab](https://colab.google/). Para acceder a los notebooks y demás contenidos para cada una de las sesiones, puedes dar click a los enlaces que se presentan en la tabla a continuación.
+El material de las sesiones se encuentra en formato de notebooks de [Jupyter](https://jupyter.org/) y puede ser ejecutado de manera local o en la nube utilizando [Google Colab](https://colab.google/). Para acceder a los notebooks y demás contenidos para cada una de las sesiones en cada uno de los módulos, puedes dar click a los enlaces que se presentan en la tabla a continuación.
 
 | CONTENIDO | LINK DE ACCESO DIRECTO |
 | --------- | ---------------------- |
-| Sesión 01 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 02 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 03 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 04 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 05 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
-| Sesión 06 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)]() |
+| Módulo 01 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/modules/01/) |
 
 
 ---
