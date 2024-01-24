@@ -30,7 +30,10 @@ A continuación la tabla de contenidos con los links de acceso directo a la pres
 
 | CONTENIDO | LINK DE ACCESO DIRECTO |
 | - | - |
+| **Módulo 00** - Slides  | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](https://docs.google.com/presentation/d/e/2PACX-1vR1iF3W9Sd7z9kjDghsujJOkjYMEQCEGwloqWftBH7CQz-Drt8SrHfnxiZAzdJOytEud5USggriV0gf/pub?start=false&loop=false&delayms=3000) |
 | **Módulo 01** - Slides  | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](https://docs.google.com/presentation/d/e/2PACX-1vToL89QMm2LZVoJBVlaQPqqN2aENJ1b7fd_aillbAsUxVSTpf5BhTAdEsYc1_JL-yFp8KFxbPCtalfA/pub?start=false&loop=false&delayms=3000) |
 | - | - |
 | **Sesión 00** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_00.ipynb) |
 | **Sesión 01** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_01.ipynb) |
+| **Sesión 02** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_02.ipynb) |
+| **Sesión 03** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_03.ipynb) |

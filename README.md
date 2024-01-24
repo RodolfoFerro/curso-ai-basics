@@ -48,6 +48,7 @@ El material de las sesiones se encuentra en formato de notebooks de [Jupyter](ht
 | CONTENIDO | LINK DE ACCESO DIRECTO |
 | --------- | ---------------------- |
 | Módulo 01 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/modules/01/) |
+| Módulo 02 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/modules/02/) |
 
 
 ---
