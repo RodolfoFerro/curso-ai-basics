@@ -35,3 +35,4 @@ A continuación la tabla de contenidos con los links de acceso directo a la pres
 | **Módulo 03** - Slides  | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](https://docs.google.com/presentation/d/e/2PACX-1vQsxOFA_IYAFef9kxLffT-dmLjjoOZDf4qTjB1vvxL4SYZnKMSiRHHW-vVmpVnlcmn2gnv4D4bnNPLs/pub?start=false&loop=false&delayms=3000) |
 | - | - |
 | **Sesión 05** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_05.ipynb) |
+| **Sesión 06** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_06.ipynb) |
