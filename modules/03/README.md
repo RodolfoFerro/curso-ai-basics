@@ -36,3 +36,4 @@ A continuación la tabla de contenidos con los links de acceso directo a la pres
 | - | - |
 | **Sesión 05** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_05.ipynb) |
 | **Sesión 06** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_06.ipynb) |
+| **Sesión 07** - Notebook | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/notebooks/session_07.ipynb) |
