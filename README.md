@@ -34,11 +34,13 @@ El contenido se divide en 4 módulos principales, cada uno con una cantidad de s
 - Redes neuronales convolucionales
 - Pipelines de CNNs
 
-#### **AI con Google Cloud (Vertex AI)**
-- AutoML
-- Custom training
-- Model Garden 
-- Generative AI
+#### **AI en Google Cloud**
+- Configuración del entorno
+- Empaquetado de modelos
+- Desarrollo de APIs
+- Despliegue de modelos en Google Cloud Platform
+
+> **Nota:** El contenido original ha sido adaptado acorde a las necesidades de la capacitación.
 
 
 ## Material de las sesiones
@@ -50,6 +52,7 @@ El material de las sesiones se encuentra en formato de notebooks de [Jupyter](ht
 | Módulo 01 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/modules/01/) |
 | Módulo 02 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/modules/02/) |
 | Módulo 03 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/modules/03/) |
+| Módulo 04 | [![Link](https://img.shields.io/badge/Link%20a%20contenidos-8A2BE2)](/modules/04/) |
 
 
 ---
